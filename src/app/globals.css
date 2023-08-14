@@ -1,0 +1,6 @@
+body  {
+    background: rgb(59,139,235);
+    background: linear-gradient(90deg, rgba(59,139,235,1) 0%, rgba(59,139,235,1) 32%, rgba(59,139,235,1) 72%);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
